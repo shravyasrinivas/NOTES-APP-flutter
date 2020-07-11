@@ -1,4 +1,4 @@
-# apps
+# NOTES MAKING APP
 
 A new Flutter project.
 
